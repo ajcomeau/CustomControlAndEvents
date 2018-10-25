@@ -1,0 +1,11 @@
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\ControlProject.exe.config
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\ControlProject.exe
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\ControlProject.pdb
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.Form1.resources
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.Properties.Resources.resources
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.exe
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.pdb
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\CustomControls.dll
+C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\CustomControls.pdb
