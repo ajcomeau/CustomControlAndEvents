@@ -30,6 +30,8 @@ namespace CustomControls
 
         private void tb_Scroll(object sender, EventArgs e)
         {
+            // When the value of one of the trackbars is changed,
+            // update the panel color and raise the ColorSelected event.
             int redValue = tbRed.Value;
             int greenValue = tbGreen.Value;
             int blueValue = tbBlue.Value;
@@ -37,6 +39,7 @@ namespace CustomControls
             try
             {
                 colorPanel.BackColor = setColor;
+                // Include the ColorSelectionEventArgs class.
                 OnColorSelected(new ColorSelectionEventArgs(setColor));
             }
             catch (Exception ex)
@@ -48,6 +51,8 @@ namespace CustomControls
 
     public class ColorSelectionEventArgs: EventArgs
     {
+        // Class to encapsulate the data that is to be sent as
+        // part of the event.
         public Color SelectedColor { get; set; }
 
         public ColorSelectionEventArgs(Color SelectColor)

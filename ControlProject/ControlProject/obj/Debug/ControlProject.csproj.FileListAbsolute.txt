@@ -9,3 +9,6 @@ C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.e
 C:\Users\Andrew\Desktop\ControlProject\ControlProject\obj\Debug\ControlProject.pdb
 C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\CustomControls.dll
 C:\Users\Andrew\Desktop\ControlProject\ControlProject\bin\Debug\CustomControls.pdb
+C:\Users\Andrew\Desktop\CustomControlAndEvents\ControlProject\ControlProject\bin\Debug\ControlProject.exe.config
+C:\Users\Andrew\Desktop\CustomControlAndEvents\ControlProject\ControlProject\obj\Debug\ControlProject.exe
+C:\Users\Andrew\Desktop\CustomControlAndEvents\ControlProject\ControlProject\obj\Debug\ControlProject.pdb
